@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Screenshot current
 
-![](./images/screenshot.png)
+![](https://github.com/HugoPDF5/css_practices/blob/master/stats-preview-card-component-main/images/screenshot.png)
 
 ### Built with
 
