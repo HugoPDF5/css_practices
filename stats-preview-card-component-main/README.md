@@ -2,7 +2,7 @@
 ## Table of contents
 
   - [The challenge](#the-challenge)
-  - [Screenshot current](#screenshot)
+  - [Screenshot current](#screenshot-current)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 
