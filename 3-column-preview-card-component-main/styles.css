@@ -16,6 +16,7 @@ body {
     width: 1440px;
     font-size: 93.75%;
     font-family: 'Lexend Deca', 'Big Shoulders Display', sans-serif;
+    background-color: var(--very-light-gray);
 }
 
 .container {
