@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Screenshot current
 
-![]()
+![](https://github.com/HugoPDF5/css_practices/blob/master/3-column-preview-card-component-main/images/screenshot.png)
 
 ### Built with
 
