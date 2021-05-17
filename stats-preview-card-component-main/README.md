@@ -8,13 +8,15 @@
 
 ### The challenge
 
+![](./design/desktop-preview.jpg)
+
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot current
 
-![](https://github.com/HugoPDF5/css_practices/blob/master/stats-preview-card-component-main/images/screenshot.png)
+![](./images/screenshot.png)
 
 ### Built with
 
