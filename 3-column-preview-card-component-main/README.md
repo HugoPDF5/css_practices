@@ -1,8 +1,5 @@
 # Frontend Mentor - 3-column preview card component
 
-![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
-
-
 ## Table of contents
 
   - [The challenge](#the-challenge)
@@ -12,13 +9,15 @@
 
 ### The challenge
 
+![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
+
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot current
 
-![](https://github.com/HugoPDF5/css_practices/blob/master/3-column-preview-card-component-main/images/screenshot.png)
+![](./images/screenshot.png)
 
 ### Built with
 
