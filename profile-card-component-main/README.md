@@ -1,7 +1,5 @@
 # Frontend Mentor - Profile card component
 
-![Design preview for the profile preview card component coding challenge](./design/desktop-preview.jpg)
-
 ## Table of contents
 
   - [The challenge](#the-challenge)
@@ -10,6 +8,8 @@
   - [What I learned](#what-i-learned)
 
 ### The challenge
+
+![Design preview for the profile preview card component coding challenge](./design/desktop-preview.jpg)
 
 Users should be able to:
 
