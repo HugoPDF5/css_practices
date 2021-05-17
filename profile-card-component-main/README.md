@@ -1,8 +1,6 @@
 # Frontend Mentor - Profile card component
 
-
 ![Design preview for the profile preview card component coding challenge](./design/desktop-preview.jpg)
-
 
 ## Table of contents
 
