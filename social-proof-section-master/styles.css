@@ -17,15 +17,76 @@ body {
 }
 
 .main-info {
-    border: 5px solid red;
+    background-color: white;
+    float:left;
+    border: 3px solid red;
+    width: 40%;
+    height: 50vh;
+}
+
+.main-info h1 {
+    color: var(--very-dark-magenta);
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.main-info p {
+    color: var(--dark-grayish-magenta);
+    font-weight: 500;
+    line-height: 1.3rem;
 }
 
 .reviews {
-    border: 5px solid green;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    float:right;
+    width: 60%;
+    height: 50vh;
+    border: 3px solid green;
+}
+
+.reviews img {
+    margin-left: 0.3rem;
+}
+
+.review {
+    width: 60%;
+    display: block;
+    background-color: var(--light-grayish-magenta);
+    border-radius: 0.3rem;
+    margin-bottom: 2rem;
+    padding: 1rem;
+}
+
+.review:nth-child(1){
+    margin-top: 1rem;
+    margin-left: 5rem;
+    align-self: flex-start;
+}
+
+
+.review:nth-child(2){
+    align-self: center;
+}
+
+.review:nth-child(3){
+    margin-right: 5rem;
+    align-self: flex-end;
+}
+
+.review h4 {
+    margin-left: 2rem;
+    display: inline-block;
+    color: var(--very-dark-magenta);
+    font-weight: 700;
 }
 
 .cards {
-    border: 5px solid orange;
+    background-color: white;
+    border: 3px solid orange;
 }
 
 .card {
