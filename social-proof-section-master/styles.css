@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --very-dark-magenta: hsl(300, 43%, 22%);
+    --soft-pink: hsl(333, 80%, 67%);
+    --dark-grayish-magenta: hsl(303, 10%, 53%);
+    --light-grayish-magenta: hsl(300, 24%, 96%);
+}
+
+body {
+    font-size: 15px;
+    font-family: Spartan;
+}
+
+.main-info {
+    border: 5px solid red;
+}
+
+.reviews {
+    border: 5px solid green;
+}
+
+.cards {
+    border: 5px solid orange;
+}
+
+.card {
+
+}
