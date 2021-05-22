@@ -14,12 +14,12 @@
 body {
     font-size: 15px;
     font-family: Spartan;
+    margin: 2rem;
 }
 
 .main-info {
     background-color: white;
     float:left;
-    border: 3px solid red;
     width: 40%;
     height: 50vh;
 }
@@ -34,7 +34,7 @@ body {
 .main-info p {
     color: var(--dark-grayish-magenta);
     font-weight: 500;
-    line-height: 1.3rem;
+    line-height: 1.6rem;
 }
 
 .reviews {
@@ -45,7 +45,6 @@ body {
     float:right;
     width: 60%;
     height: 50vh;
-    border: 3px solid green;
 }
 
 .reviews img {
@@ -57,14 +56,14 @@ body {
     display: block;
     background-color: var(--light-grayish-magenta);
     border-radius: 0.3rem;
-    margin-bottom: 2rem;
     padding: 1rem;
+    margin: 0.5rem;
 }
 
 .review:nth-child(1){
-    margin-top: 1rem;
-    margin-left: 5rem;
     align-self: flex-start;
+    margin-top: 1rem;
+    margin-left: 4rem;
 }
 
 
@@ -73,8 +72,8 @@ body {
 }
 
 .review:nth-child(3){
-    margin-right: 5rem;
     align-self: flex-end;
+    margin-right: 3rem;
 }
 
 .review h4 {
@@ -86,9 +85,56 @@ body {
 
 .cards {
     background-color: white;
-    border: 3px solid orange;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
 }
 
 .card {
+    border-radius: 0.5rem;
+    width: 30vw;
+    padding: 2rem;
+    background-color: var(--very-dark-magenta);
+}
 
+.card img {
+    border-radius: 50%;
+    max-width: 3rem;
+}
+
+.card:nth-child(2) {
+    margin-top: 1rem;
+}
+
+.card:nth-child(3) {
+    margin-top: 2rem;
+}
+
+.card .identifier {
+    position: relative;
+
+    display: inline-block;
+    width: 50%;
+}
+
+.card .identifier p {
+    text-align: center;
+}
+
+.name_person {
+    font-weight: 700;
+    color: var(--light-grayish-magenta);
+    margin-bottom: 0.2rem;
+}
+
+.verificated {
+    font-weight: 400;
+    color: var(--soft-pink);
+}
+
+.comment {
+    margin-top: 2rem;
+    color: var(--light-grayish-magenta);
+    line-height: 1.6;
 }
