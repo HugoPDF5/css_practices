@@ -1,3 +1,3 @@
 ## Práticas de CSS
 
-## (Nada aqui vai estar perfeito hehehe)
+## Repositório destinado para alguns clones de landing pages
