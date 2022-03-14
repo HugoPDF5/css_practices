@@ -1,32 +1,23 @@
-# Frontend Mentor - 3-column preview card component
-
-## Table of contents
-
-  - [The challenge](#the-challenge)
-  - [Screenshot current](#screenshot-current)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-
-### The challenge
+### Objetivo
 
 ![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
 
-Users should be able to:
 
-- View the optimal layout depending on their device's screen size
-
-### Screenshot current
+## Screenshot Atual
 
 ![](./images/screenshot.png)
 
-### Built with
+## Construído com
 
-- Semantic HTML5 markup (OK)
-- CSS custom properties (OK)
-- Flexbox (OK)
-- Mobile (media-query)  (Pendente)
+- [x] Semantic HTML5 markup
+- [x] CSS custom properties
+- [x] Flexbox (OK)
+- [ ] Mobile (media-query)
 
-### What I learned
 
-I was able to put knowledge into practice with the challenges available on [Frontend Mentor](https://www.frontendmentor.io/)    
+
+
+
+
+
 
